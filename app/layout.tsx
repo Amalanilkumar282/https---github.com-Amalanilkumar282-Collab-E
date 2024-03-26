@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Collab-E",
   description: "Web application to coordinate events exclusively created for KTU students.",
   icons:{
-    icon:'public/assets/images/logo.svg',
+    icon:'/assets/images/logo.svg',
   }
 };
 
